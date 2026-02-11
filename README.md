@@ -37,7 +37,7 @@
 - *The ability to learn quickly.*
 - *The ability to work in a team and find a "common language".*
 
-## ✉️ Контакты для связи
+## ✉️ My contacts
 
 | Number | Type         | Contact                                    |
 | ------ | ------------ | ------------------------------------------ |
