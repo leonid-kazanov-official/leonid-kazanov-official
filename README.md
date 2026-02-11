@@ -5,9 +5,9 @@
 ## English Version
 ## 📌 Basic info
 
-**Name:** *Леонид*
-**Date of birth**: *03.01.2011*  **(15 лет)**
-**Hobby:** *Разработка игр, изучение ИБ и Кибербезопасности.*
+**Name:** *Leonid*
+**Date of birth**: *03.01.2011*  **(15 y.o.)**
+**Hobby:** *GameDev & learning CyberSecurity.*
 **Time zone:** *UTC +3*
 
 ## 🚩 Languages
