@@ -6,8 +6,11 @@
 ## 📌 Basic info
 
 **Name:** *Leonid*
+
 **Date of birth**: *03.01.2011*  **(15 y.o.)**
+
 **Hobby:** *GameDev & learning CyberSecurity.*
+
 **Time zone:** *UTC +3*
 
 ## 🚩 Languages
