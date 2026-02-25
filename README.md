@@ -9,7 +9,7 @@
 
 **Date of birth**: *03.01.2011*  **(15 y.o.)**
 
-**Hobby:** *GameDev & learning CyberSecurity.*
+**Hobby:** *GameDev*
 
 **Time zone:** *UTC +3*
 
@@ -45,7 +45,7 @@
 | Number | Type         | Contact                                    |
 | ------ | ------------ | ------------------------------------------ |
 | 1)     | **Email**    | leonid.kazanov.official@gmail.com          |
-| 2)     | **Telegram** | https://t.me/llampII                       |
+| 2)     | **Telegram** | https://t.me/luinty                        |
 | 3)     | **GitHub**   | https://github.com/leonid-kazanov-official |
 
 
@@ -58,7 +58,7 @@
 
 **Дата рождения:** *03.01.2011*  **(15 лет)**
 
-**Увлечения:** *Разработка игр, изучение ИБ и Кибербезопасности.*
+**Увлечения:** *Разработка игр*
 
 **Часовой пояс:** *UTC +3*
 
@@ -69,7 +69,7 @@
 ## 💻 Навыки
 
 - **C#**  (Junior)
-- **Unity Engine** (Junior+)
+- **Unity Engine** (Junior)
 - **Blender** (Junior+)
 - **Photoshop** (Базовые знания)
 - **Premier Pro** (Базовые знания)
@@ -94,7 +94,7 @@
 | Номер | Тип связи    | Контакт для связи                          |
 | ----- | ------------ | ------------------------------------------ |
 | 1)    | **Email**    | leonid.kazanov.official@gmail.com          |
-| 2)    | **Telegram** | https://t.me/llampII                       |
+| 2)    | **Telegram** | https://t.me/luinty                       |
 | 3)    | **GitHub**   | https://github.com/leonid-kazanov-official |
 
 ---
