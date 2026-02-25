@@ -20,7 +20,7 @@
 ## 💻 Skills
 
 - **C#**  (Junior)
-- **Unity Engine** (Junior+)
+- **Unity Engine** (Junior)
 - **Blender** (Junior+)
 - **Photoshop** (Basic knowledge)
 - **Premier Pro** (Basic knowledge)
