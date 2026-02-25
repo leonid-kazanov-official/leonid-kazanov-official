@@ -1,5 +1,5 @@
 # Hello everyone! 
-**Here you can see my profile description on [Russian](#русская-версия) or [English](#english-version) language.**
+**Here you can see my profile description on [Russian](#русская-версия) and [English](#english-version) language.**
 
 ---
 ## English Version
@@ -9,7 +9,7 @@
 
 **Date of birth**: *03.01.2011*  **(15 y.o.)**
 
-**Hobby:** *GameDev*
+**Hobby:** *GameDev on Unity*
 
 **Time zone:** *UTC +3*
 
@@ -58,7 +58,7 @@
 
 **Дата рождения:** *03.01.2011*  **(15 лет)**
 
-**Увлечения:** *Разработка игр*
+**Увлечения:** *Разработка игр  на Unity*
 
 **Часовой пояс:** *UTC +3*
 
