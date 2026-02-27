@@ -47,6 +47,7 @@
 | 1)     | **Email**    | leonid.kazanov.official@gmail.com          |
 | 2)     | **Telegram** | https://t.me/luinty                        |
 | 3)     | **GitHub**   | https://github.com/leonid-kazanov-official |
+| 4)     | **Steam**    | https://steamcommunity.com/id/llampillamp/ |
 
 
 ---
@@ -94,7 +95,7 @@
 | Номер | Тип связи    | Контакт для связи                          |
 | ----- | ------------ | ------------------------------------------ |
 | 1)    | **Email**    | leonid.kazanov.official@gmail.com          |
-| 2)    | **Telegram** | https://t.me/luinty                       |
+| 2)    | **Telegram** | https://t.me/luinty                        |
 | 3)    | **GitHub**   | https://github.com/leonid-kazanov-official |
-
+| 4)    | **Steam**    | https://steamcommunity.com/id/llampillamp/ |
 ---
