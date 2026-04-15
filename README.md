@@ -1,101 +1,173 @@
-# Hello everyone! 
-**Here you can see my profile description on [Russian](#русская-версия) and [English](#english-version) language.**
 
 ---
-## English Version
-## 📌 Basic info
 
-**Name:** *Leonid*
+## 📌 ОСНОВНАЯ ИНФОРМАЦИЯ
 
-**Date of birth**: *03.01.2011*  **(15 y.o.)**
+**Имя:** Леонид  
+**Дата рождения:** 03.01.2011 (15 лет)  
+**Часовой пояс:** UTC +3
 
-**Hobby:** *GameDev on Unity*
+**Увлечения:**  
+Разработка игр на Unity. Изучение Кибербезопасности.
 
-**Time zone:** *UTC +3*
+---
 
-## 🚩 Languages
+## 🚩 ВЛАДЕНИЕ ЯЗЫКАМИ
 
-- **Russian** *(Native)*
-- **English** *(A1/A2)*
-## 💻 Skills
-
-- **C#**  (Junior)
-- **Unity Engine** (Junior)
-- **Blender** (Junior+)
-- **Photoshop** (Basic knowledge)
-- **Premier Pro** (Basic knowledge)
-- **GNU/Linux Operation systems** (Junior)
--  **Markdown** (Basic knowledge)
-
-## 💼 Portfolio
-
-*Nothing is here yet, but something will definitely appear here soon!* 🙃
-
-## 📜Achievements & Certificates
-
-*Nothing is here yet, but something will definitely appear here soon!* 🙃
-
-## ⏰ Soft-Skills
-
-- *The ability to learn quickly.*
-- *The ability to work in a team and find a "common language".*
-
-## ✉️ My contacts
-
-| Number | Type         | Contact                                    |
-| ------ | ------------ | ------------------------------------------ |
-| 1)     | **Email**    | leonid.kazanov.official@gmail.com          |
-| 2)     | **Telegram** | https://t.me/luinty                        |
-| 3)     | **GitHub**   | https://github.com/leonid-kazanov-official |
-| 4)     | **Steam**    | https://steamcommunity.com/id/llampillamp/ |
+- **Русский** - носитель
+    
+- **Английский** - уровень A2/B1
 
 
 ---
 
-# Русская Версия
-## 📌 Основное
+## 💻 НАВЫКИ
 
-**Имя:** *Леонид*
+###  Unity Engine
 
-**Дата рождения:** *03.01.2011*  **(15 лет)**
+> Обладаю базовыми, но уверенными знаниями движка. Могу самостоятельно разработать простую игру (например, платформер или простой шутер).
 
-**Увлечения:** *Разработка игр  на Unity*
+**Я хорошо понимаю:**
 
-**Часовой пояс:** *UTC +3*
+- Prefabs
+    
+- NavMesh
+    
+- UI (Canvas + TextMeshPro)
+    
+- Игровые компоненты (от Collider до кастомных Inspector-интерфейсов)
+    
+- Terrain - могу создать хорошую локацию.
+	
+-  Умею работать с Scriptable Objects
+	
+- Animator, Animations.
 
-## 🚩 Языки
 
-- **Русский** *(Носитель языка)*
-- **Английский** *(A1/A2)*
-## 💻 Навыки
+**Оптимизация:**
 
-- **C#**  (Junior)
-- **Unity Engine** (Junior)
-- **Blender** (Junior+)
-- **Photoshop** (Базовые знания)
-- **Premier Pro** (Базовые знания)
-- **GNU/Linux Operation systems** (Junior)
--  **Markdown** (Базовые знания)
+- Знаю как использовать Occlusion Culling а также с Batching
+    
+- Работаю с Profiler (я часто ищу тяжёлые скрипты с целью оптимизации)
 
-## 💼 Портфолио
 
-*Пока тут ничего нет, но скоро здесь обязательно что-нибудь появится!* 🙃
+**Дополнительно:**
 
-## 📜Сертификаты и Достижения
+- У меня есть хорошее понимание основ гейм-дизайна (Создание хороших уровней, передача идей через окружение, UX/UI)
 
-*Пока тут ничего нет, но скоро здесь обязательно что-нибудь появится!* 🙃
 
-## ⏰ Soft-Skills
+---
 
-- *Способность к быстрому обучению.*
-- *Способность работать в команде и находить "общий язык".*
+### C# 
+> В основном я использую C# в связке с Unity. Я очень люблю писать и изучать чистый, стабильный и понятный код, который будет понятен всем разработчикам в команде, а также будет защищённым от "поломок" совсем новичками.
 
-## ✉️ Контакты для связи
+**Навыки:**
 
-| Номер | Тип связи    | Контакт для связи                          |
-| ----- | ------------ | ------------------------------------------ |
-| 1)    | **Email**    | leonid.kazanov.official@gmail.com          |
-| 2)    | **Telegram** | https://t.me/luinty                        |
-| 3)    | **GitHub**   | https://github.com/leonid-kazanov-official |
-| 4)    | **Steam**    | https://steamcommunity.com/id/llampillamp/ |
+- Базовое понимание классов и наследования
+    
+- Управляющие конструкции: `if`, `while`, `for`, `foreach`
+    
+- Поля, свойства, массивы, `List`
+    
+- Понимание разницы между значимыми и ссылающимися типами данных.
+    
+- Базовое ООП (я пока в процессе углубления)
+    
+- Корутины (Coroutines) при использовании Unity
+
+> Я стараюсь оставлять комментарии только там, где это действительно нужно. 
+
+![[Screenshot From 2026-04-16 01-48-51.png|460]]
+---
+
+###  Blender 3D
+
+> У меня очень хороший уровень владения данной программой.
+
+**Я могу:**
+
+- Моделировать
+    
+- Создавать UV-развертку
+    
+- Создавать текстуры через Nodes
+    
+- Запекать текстуру
+    
+- Делать простой риггинг гуманойдному персонажу.
+    
+- Добавлять простые анимации
+    
+- Создавать финальный рендер
+
+
+>  Это позволяет работать без отдельного 3D-моделлера в небольших проектах.
+
+---
+###  Obsidian
+
+> Я стал изучать Obsidian не так давно, но уже есть базовые навыки:
+
+- Написание дизайн-документов (Game Design Document)
+    
+- Markdown
+    
+- Canvas
+    
+- Структурирование информации
+
+
+> После того как я углубился в написания GDD  у меня появилось понимание, что разработка больших проектов без GDD - это как минимум неэффективно.
+
+![[Screenshot From 2026-04-16 01-41-18.png|269]]
+![[Screenshot From 2026-04-16 01-41-02.png|181]]
+---
+
+### Photoshop & Premiere Pro
+
+- Создание простых превью
+    
+- Базовый видеомонтаж
+
+
+---
+
+### 🐧 GNU/Linux (Debian)
+
+- Использую Debian как основную ОС
+    
+- Изучаю Linux-системы
+    
+- Понимаю их важность для работы в IT
+
+![[Screenshot From 2026-04-16 01-46-49.png|370]]
+---
+
+## 💼 МОЁ ПОРТФОЛИО
+
+### **EsController**
+
+Мой личный OpenSource проект, пишущийся только мной. Планирую его поддерживать и разрабатывать длительное время.
+
+**Текущее состояние:** ранняя стадия разработки
+
+**Уже реализовано:**
+
+- FPS Controller with Animations (почти готов к использованию)
+
+
+**Репозиторий:**  
+[https://github.com/leonid-kazanov-official/unity-simple-fps-controller](https://github.com/leonid-kazanov-official/unity-simple-fps-controller)
+
+---
+
+## ✉️ КОНТАКТНАЯ ИФОРМАЦИЯ
+
+|№|Тип|Контакт|
+|---|---|---|
+|1|Email|[leonid.kazanov.official@gmail.com](mailto:leonid.kazanov.official@gmail.com)|
+|2|Telegram|[https://t.me/luinty](https://t.me/luinty)|
+|3|GitHub|[https://github.com/leonid-kazanov-official](https://github.com/leonid-kazanov-official)|
+|4|Steam|[https://steamcommunity.com/id/llampillamp/](https://steamcommunity.com/id/llampillamp/)|
+
 ---
