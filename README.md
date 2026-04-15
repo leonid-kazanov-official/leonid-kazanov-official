@@ -1,5 +1,6 @@
 
 ---
+![Image](https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif)  ![GitHub Streak](https://streak-stats.demolab.com?user=leonid-kazanov-official&theme=dark)
 
 ## 📌 ОСНОВНАЯ ИНФОРМАЦИЯ
 
@@ -22,6 +23,7 @@
 ---
 
 ## 💻 НАВЫКИ
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,github,linux,blender,obsidian,photoshop,premier)](https://skillicons.dev)
 
 ###  Unity Engine
 
@@ -75,9 +77,8 @@
     
 - Корутины (Coroutines) при использовании Unity
 
-> Я стараюсь оставлять комментарии только там, где это действительно нужно. 
+> Я стараюсь оставлять комментарии только там, где это действительно нужно.
 
-![[Screenshot From 2026-04-16 01-48-51.png|460]]
 ---
 
 ###  Blender 3D
@@ -119,8 +120,7 @@
 
 > После того как я углубился в написания GDD  у меня появилось понимание, что разработка больших проектов без GDD - это как минимум неэффективно.
 
-![[Screenshot From 2026-04-16 01-41-18.png|269]]
-![[Screenshot From 2026-04-16 01-41-02.png|181]]
+
 ---
 
 ### Photoshop & Premiere Pro
@@ -140,8 +140,9 @@
     
 - Понимаю их важность для работы в IT
 
-![[Screenshot From 2026-04-16 01-46-49.png|370]]
 ---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonid-kazanov-official&theme=react-dark)
 
 ## 💼 МОЁ ПОРТФОЛИО
 
@@ -171,3 +172,5 @@
 |4|Steam|[https://steamcommunity.com/id/llampillamp/](https://steamcommunity.com/id/llampillamp/)|
 
 ---
+
+![End Screen](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
